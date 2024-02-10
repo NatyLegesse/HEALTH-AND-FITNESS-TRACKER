@@ -20,7 +20,7 @@ The software architecture follows a modular and layered approach, ensuring scala
 
 The software design is represented using UML diagrams, including class diagrams, sequence diagrams, and activity diagrams. These diagrams illustrate the structure, behavior, and interactions within the system.
 
-- **Class Diagram:** ![Class Diagram](https://ibb.co/7NqPY89)
+- **Class Diagram:** ![Class Diagram]([https://ibb.co/7NqPY89](https://github.com/NatyLegesse/HEALTH-AND-FITNESS-TRACKER/blob/main/Screenshot%202024-02-10%20204440.png))
 - **Sequence Diagram:** ![Sequence Diagram](link_to_image)
 - **Activity Diagram:** ![Activity Diagram](link_to_image)
 
