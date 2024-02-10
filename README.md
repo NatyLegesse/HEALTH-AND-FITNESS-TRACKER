@@ -1,6 +1,6 @@
-`## Software Documentation
+# Software Documentation
 
-## Introduction`
+## Introduction
 
 This document serves as the software documentation for the implemented feature in assignments 4 and 5. It outlines the purpose of the document, the scope of the software, the software architecture, design, models, test cases, and the tools, languages, frameworks, and platforms used in the development process.
 
@@ -28,10 +28,41 @@ The software design is represented using UML diagrams, including class diagrams,
 
 Test cases have been devised to ensure the functionality, reliability, and performance of the implemented feature. These test cases cover various scenarios and edge cases to validate the behavior of the system.
 
-- Test Case 1: Description of the test case.
-- Test Case 2: Description of the test case.
-- Test Case 3: Description of the test case.
-- ...
+- **Test Case 1:** Verify that clicking the "Login" button with valid credentials successfully logs the user in and displays the workout planner interface.
+  - **Steps:**
+    1. Enter valid username and password.
+    2. Click the "Login" button.
+  - **Expected Result:** The user should be logged in, and the workout planner interface should be displayed.
+
+- **Test Case 2:** Verify that clicking the "Login" button with invalid credentials displays an error message.
+  - **Steps:**
+    1. Enter invalid username or password.
+    2. Click the "Login" button.
+  - **Expected Result:** An error message should be displayed indicating invalid credentials.
+
+- **Test Case 3:** Verify that clicking the "Logout" button successfully logs the user out and displays the login form.
+  - **Steps:**
+    1. Ensure the user is logged in.
+    2. Click the "Logout" button.
+  - **Expected Result:** The user should be logged out, and the login form should be displayed.
+
+- **Test Case 4:** Verify that clicking on the "Strength Training" button redirects the user to the strength training plan website.
+  - **Steps:**
+    1. Ensure the user is logged in.
+    2. Click the "Strength Training" button.
+  - **Expected Result:** The user should be redirected to the strength training plan website in a new tab.
+
+- **Test Case 5:** Verify that clicking on the "Cardio" button redirects the user to the cardio plan website.
+  - **Steps:**
+    1. Ensure the user is logged in.
+    2. Click the "Cardio" button.
+  - **Expected Result:** The user should be redirected to the cardio plan website in a new tab.
+
+- **Test Case 6:** Verify that clicking on the "Yoga" button redirects the user to the yoga plan website.
+  - **Steps:**
+    1. Ensure the user is logged in.
+    2. Click the "Yoga" button.
+  - **Expected Result:** The user should be redirected to the yoga plan website in a new tab.
 
 ## Used Tools, Languages, Frameworks, Platforms, etc.
 
