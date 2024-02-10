@@ -66,9 +66,8 @@ Test cases have been devised to ensure the functionality, reliability, and perfo
 
 ## Used Tools, Languages, Frameworks, Platforms, etc.
 
-- Programming Language: [Specify language(s) used]
-- Frameworks: [Specify frameworks used]
-- Version Control: Git
+- Programming Language: [HTML, CSS, and Java script]
+- Version Control: Git, github
 - IDE: [Specify IDE used]
 - Testing Framework: [Specify testing framework used]
 - Deployment Platform: [Specify deployment platform]
