@@ -1,6 +1,6 @@
 # Software Documentation
 
-## Introduction
+## Introduction`#ffffff`
 
 This document serves as the software documentation for the implemented feature in assignments 4 and 5. It outlines the purpose of the document, the scope of the software, the software architecture, design, models, test cases, and the tools, languages, frameworks, and platforms used in the development process.
 
