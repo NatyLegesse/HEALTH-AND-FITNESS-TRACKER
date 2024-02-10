@@ -86,4 +86,4 @@ The documentation is written using markdown, fitting to the syntax compatible wi
 This documentation provides a comprehensive overview of the implemented feature, including its scope, architecture, design, test cases, and the technologies used in its development. It serves as a reference for understanding the functionality and structure of the software.
 
 
-![Link to Repository](https://github.com/NatyLegesse/HEALTH-AND-FITNESS-TRACKER/edit/main/README.md)https://github.com/NatyLegesse/HEALTH-AND-FITNESS-TRACKER/edit/main/README.md)
+![Link to Repository](https://github.com/NatyLegesse/HEALTH-AND-FITNESS-TRACKER/edit/main/README.md)
