@@ -68,35 +68,22 @@ Test cases have been devised to ensure the functionality, reliability, and perfo
 
 - Programming Language: [HTML, CSS, and Java script]
 - Version Control: Git, github
-- IDE: [Specify IDE used]
-- Testing Framework: [Specify testing framework used]
-- Deployment Platform: [Specify deployment platform]
+- IDE: [INTELIJ IDEA]
 
 ## Markdown Usage
 
-The documentation is written using markdown, adhering to the syntax compatible with Git repository. The following markdown elements have been utilized:
+The documentation is written using markdown, fitting to the syntax compatible with the Git repository. The following markdown elements have been utilized:
 
 - Headings
 - Styling
 - Text quotes
 - Code quotes
-- Colors
 - Links
 - Images
 - Lists
-- Footnotes
-- Alerts
-
 ## Conclusion
 
 This documentation provides a comprehensive overview of the implemented feature, including its scope, architecture, design, test cases, and the technologies used in its development. It serves as a reference for understanding the functionality and structure of the software.
 
-## Screenshots
 
-- **Screenshot 1:** ![Screenshot](link_to_image)
-- **Screenshot 2:** ![Screenshot](link_to_image)
-- **Screenshot 3:** ![Screenshot](link_to_image)
-
-Ensure to review the rendered documentation in the repository to confirm proper rendering of markdown files.
-
-[Commit Link to Repository](link_to_repository)
+[Commit Link to Repository](https://github.com/NatyLegesse/HEALTH-AND-FITNESS-TRACKER/edit/main/README.md)https://github.com/NatyLegesse/HEALTH-AND-FITNESS-TRACKER/edit/main/README.md)
