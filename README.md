@@ -1,4 +1,4 @@
-_HI_**THIS IS NATY**
+_HI **THIS IS NATY**
 
 if you want to visit my github check:
 
