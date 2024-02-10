@@ -20,7 +20,7 @@ The software architecture follows a modular and layered approach, ensuring scala
 
 The software design is represented using UML diagrams, including class diagrams, sequence diagrams, and activity diagrams. These diagrams illustrate the structure, behavior, and interactions within the system.
 
-- **Class Diagram:** ![Class Diagram]([link_to_image](https://ibb.co/7NqPY89))
+- **Class Diagram:** ![Class Diagram](https://ibb.co/7NqPY89)
 - **Sequence Diagram:** ![Sequence Diagram](link_to_image)
 - **Activity Diagram:** ![Activity Diagram](link_to_image)
 
