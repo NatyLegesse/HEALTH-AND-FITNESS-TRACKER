@@ -6,17 +6,21 @@ This document serves as the software documentation for the implemented feature i
 
 ## Scope of the Software
 
-The software aims to implement a new computer system as per the preliminary software requirements and design provided. The scope includes developing specific features outlined in assignments 4 and 5 while adhering to the overall system requirements.
+The software aims to assist users in creating and following 
+personalized workout plans. The application provides a user-friendly interface for logging 
+in, creating workout routines, and accessing predefined workout plans for various fitness 
+goals. Users can navigate between different workout plans, including Strength Training, 
+Cardio, and Yoga, to meet their specific fitness objectives.
 
 ## Used Software Architecture
 
-The software architecture follows a modular and layered approach, ensuring scalability, maintainability, and flexibility. It comprises multiple layers such as presentation layer, business logic layer, and data access layer, facilitating separation of concerns and enabling easier maintenance and updates.
+The software architecture follows a modular and layered approach, ensuring scalability, maintainability, and flexibility. It contains multiple layers such as presentation layer, business logic layer, and data access layer, facilitating separation of concerns and enabling easier maintenance and updates.
 
 ## Software Design and Model
 
 The software design is represented using UML diagrams, including class diagrams, sequence diagrams, and activity diagrams. These diagrams illustrate the structure, behavior, and interactions within the system.
 
-- **Class Diagram:** ![Class Diagram](link_to_image)
+- **Class Diagram:** ![Class Diagram]([link_to_image](https://ibb.co/7NqPY89))
 - **Sequence Diagram:** ![Sequence Diagram](link_to_image)
 - **Activity Diagram:** ![Activity Diagram](link_to_image)
 
